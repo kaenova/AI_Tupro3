@@ -1,4 +1,4 @@
-# AI_Tupro3
+  # AI_Tupro3
 
 Kaenova Mahendra Auditama<sup>1</sup><br>
 Adhe Akram Azhari<sup>2</sup><br>
@@ -11,7 +11,27 @@ Informatics Engineering, Telkom University, Indonesia<br>
 
 ## [English]
 
-This project is still in progress...
+This project is the final of three project from course Artificial Intelligence Introduction. This project implement recommendation system in Artificial Intelligence with k-Nearest Neighbor. In this case, we need to give a car recommendation based on user input.
+
+This Algorithm need some external libraries, before you run this algorithm please install dependencies using:
+
+```sh
+$ python -m pip install -r requirements.txt
+```
+
+After installing all dependencies, now you can check the notebooks with files `main.ipynb`
+
+## [Bahasa Indonesia]
+
+Proyek ini merupakan proyek terakhir dari Mata Kuliah Pengantar Kecerdasan Buatan dari 3 proyek yang akan di buat. Proyek kedua ini mengimplementasikan sistem rekomendasi dalam Kecerdasan Buatan dengan k-Nearest Neighbor. Pada studi kasus ini, kami diminta untuk memberikan rekomendasi mobil berdasarkan input user.
+
+Algoritma ini membutuhkan beberapa library. Sebelum digunakan harap lakukan penginstallan library dengan menggunakan:
+
+```sh
+$ python -m pip install -r requirements.txt
+```
+
+Setelah menginstall semua library yang dibutuhkan, sekarang kamu bisa membuka notebook dengan nama file `main.ipynb`
 
 
 <p align="center">
